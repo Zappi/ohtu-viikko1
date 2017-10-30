@@ -131,4 +131,11 @@ public class VarastoTest {
         assertEquals(testi, tulos);
     }
 
+    @Test
+    public void lisataanEnemmanKuinMahtuu() {
+        varasto.lisaaVarastoon(30000);
+        double tilavuus = varasto.getTilavuus();
+        assertEquals(tilavuus, varasto.getTilavuus(), vertailuTarkkuus);
+    }
+
 }
