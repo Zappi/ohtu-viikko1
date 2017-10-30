@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e6018d-9bdc-44a1-9df9-72bd47bd471e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.4.1/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/Main.java" afterPath="$PROJECT_DIR$/src/main/java/ohtu/ohtuvarasto/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" afterPath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,8 +24,8 @@
       <file leaf-file-name="VarastoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="130" column="35" lean-forward="false" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="35" />
+            <state relative-caret-position="392">
+              <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -588,12 +577,12 @@
       <workItem from="1509382522508" duration="666000" />
       <workItem from="1509385195827" duration="374000" />
       <workItem from="1509385587310" duration="951000" />
-      <workItem from="1509388309776" duration="2744000" />
+      <workItem from="1509388309776" duration="3350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4735000" />
+    <option name="totallyTimeSpent" value="5341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1679" y="282" width="1368" height="744" extended-state="6" />
@@ -707,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="130" column="35" lean-forward="false" selection-start-line="130" selection-start-column="35" selection-end-line="130" selection-end-column="35" />
+        <state relative-caret-position="392">
+          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
           <folding />
         </state>
       </provider>

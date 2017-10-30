@@ -120,7 +120,7 @@ public class VarastoTest {
     public void otetaanVarastostaKaikkiMitaSaadaan() {
         varasto.otaVarastosta(4000);
 
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(5, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
