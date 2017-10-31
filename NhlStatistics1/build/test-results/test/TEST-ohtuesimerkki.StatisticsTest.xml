@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-10-31T17:46:51" hostname="fuxi16" time="0.009">
+  <properties/>
+  <testcase name="returnTheTopScorer" classname="ohtuesimerkki.StatisticsTest" time="0.007"/>
+  <testcase name="returnNullPlayer" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="returnCorrectPlayerWithCorrectTeam" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="returnCorrectPlayer" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <system-out><![CDATA[[Gretzky              EDM 35 + 89 = 124, Lemieux              PIT 45 + 54 = 99, Yzerman              DET 42 + 56 = 98]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
